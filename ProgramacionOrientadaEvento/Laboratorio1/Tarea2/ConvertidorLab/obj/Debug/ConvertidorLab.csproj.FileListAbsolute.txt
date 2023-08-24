@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\bin\Debug\ConvertidorLab.exe.config
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\bin\Debug\ConvertidorLab.exe
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\bin\Debug\ConvertidorLab.pdb
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\obj\Debug\ConvertidorLab.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\obj\Debug\ConvertidorLab.Form1.resources
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\obj\Debug\ConvertidorLab.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\obj\Debug\ConvertidorLab.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\obj\Debug\ConvertidorLab.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\obj\Debug\ConvertidorLab.exe
+C:\Users\kevin\OneDrive\Escritorio\ejercicio2\ConvertidorLab\ConvertidorLab\obj\Debug\ConvertidorLab.pdb
